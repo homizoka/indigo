@@ -1,5 +1,5 @@
-INDIGO_WELCOME_MESSAGE: "The place for all your online learning"
-INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+INDIGO_WELCOME_MESSAGE: "جــــامعة السلطــــان مـولاي سليمــــان"
+INDIGO_PRIMARY_COLOR: "#470701" # cool blue
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
@@ -13,5 +13,5 @@ INDIGO_FOOTER_NAV_LINKS:
 INDIGO_FOOTER_LEGAL_LINKS:
     - title: "Terms of service"
       url: "/tos"
-    - title: "Indigo theme for Open edX"
-      url: "https://github.com/overhangio/indigo"
+    - title: "Université Sultan Moulay Slimane | Portail officiel de l'USMS"
+      url: "http://www.usms.ac.ma/website/"
